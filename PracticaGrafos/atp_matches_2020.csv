@@ -1,0 +1,748 @@
+tourney_name;match_num;winner_name;winner_hand;winner_ioc;loser_name;loser_hand;loser_ioc;winner_rank;winner_rank_points;loser_rank;loser_rank_points
+Atp Cup;300;Novak Djokovic;R;SRB;Rafael Nadal;L;ESP;2;9055;1;9985
+Atp Cup;299;Roberto Bautista Agut;R;ESP;Dusan Lajovic;R;SRB;10;2335;34;1251
+Atp Cup;298;Novak Djokovic;R;SRB;Daniil Medvedev;R;RUS;2;9055;5;5705
+Atp Cup;297;Dusan Lajovic;R;SRB;Karen Khachanov;R;RUS;34;1251;17;1840
+Atp Cup;296;Rafael Nadal;L;ESP;Alex De Minaur;R;AUS;1;9985;18;1775
+Atp Cup;295;Roberto Bautista Agut;R;ESP;Nick Kyrgios;R;AUS;10;2335;29;1375
+Atp Cup;294;Novak Djokovic;R;SRB;Denis Shapovalov;L;CAN;2;9055;14;2050
+Atp Cup;293;Dusan Lajovic;R;SRB;Felix Auger Aliassime;R;CAN;34;1251;21;1636
+Atp Cup;292;Daniil Medvedev;R;RUS;Diego Schwartzman;R;ARG;5;5705;13;2125
+Atp Cup;291;Karen Khachanov;R;RUS;Guido Pella;L;ARG;17;1840;25;1530
+Atp Cup;290;Daniel Evans;R;GBR;Alex De Minaur;R;AUS;42;1124;18;1775
+Atp Cup;289;Nick Kyrgios;R;AUS;Cameron Norrie;L;GBR;29;1375;52;975
+Atp Cup;288;David Goffin;R;BEL;Rafael Nadal;L;ESP;11;2335;1;9985
+Atp Cup;287;Roberto Bautista Agut;R;ESP;Kimmer Coppejans;R;BEL;10;2335;158;328
+Atp Cup;286;Novak Djokovic;R;SRB;Gael Monfils;R;FRA;2;9055;9;2530
+Atp Cup;285;Benoit Paire;R;FRA;Dusan Lajovic;R;SRB;24;1538;34;1251
+Atp Cup;284;Novak Djokovic;R;SRB;Kevin Anderson;R;RSA;2;9055;147;360
+Atp Cup;283;Dusan Lajovic;R;SRB;Lloyd Harris;R;RSA;34;1251;99;569
+Atp Cup;282;Novak Djokovic;R;SRB;Christian Garin;R;CHI;2;9055;33;1291
+Atp Cup;281;Dusan Lajovic;R;SRB;Nicolas Jarry;R;CHI;34;1251;77;675
+Atp Cup;280;Kevin Anderson;R;RSA;Benoit Paire;R;FRA;147;360;24;1538
+Atp Cup;279;Gilles Simon;R;FRA;Lloyd Harris;R;RSA;57;910;99;569
+Atp Cup;278;Gael Monfils;R;FRA;Christian Garin;R;CHI;9;2530;33;1291
+Atp Cup;277;Benoit Paire;R;FRA;Nicolas Jarry;R;CHI;24;1538;77;675
+Atp Cup;276;Kevin Anderson;R;RSA;Christian Garin;R;CHI;147;360;33;1291
+Atp Cup;275;Lloyd Harris;R;RSA;Nicolas Jarry;R;CHI;99;569;77;675
+Atp Cup;274;Rafael Nadal;L;ESP;Yoshihito Nishioka;L;JPN;1;9985;72;764
+Atp Cup;273;Roberto Bautista Agut;R;ESP;Go Soeda;R;JPN;10;2335;119;461
+Atp Cup;272;Rafael Nadal;L;ESP;Nikoloz Basilashvili;R;GEO;1;9985;26;1450
+Atp Cup;271;Roberto Bautista Agut;R;ESP;Aleksandre Metreveli;R;GEO;10;2335;678;29
+Atp Cup;270;Rafael Nadal;L;ESP;Pablo Cuevas;R;URU;1;9985;45;1097
+Atp Cup;269;Roberto Bautista Agut;R;ESP;Franco Roncadelli;U;URU;10;2335;;
+Atp Cup;268;Yoshihito Nishioka;L;JPN;Nikoloz Basilashvili;R;GEO;72;764;26;1450
+Atp Cup;267;Go Soeda;R;JPN;Aleksandre Metreveli;R;GEO;119;461;678;29
+Atp Cup;266;Yoshihito Nishioka;L;JPN;Pablo Cuevas;R;URU;72;764;45;1097
+Atp Cup;265;Go Soeda;R;JPN;Martin Cuevas;R;URU;119;461;523;52
+Atp Cup;264;Nikoloz Basilashvili;R;GEO;Pablo Cuevas;R;URU;26;1450;45;1097
+Atp Cup;263;Aleksandre Metreveli;R;GEO;Franco Roncadelli;U;URU;678;29;;
+Atp Cup;262;Daniel Evans;R;GBR;David Goffin;R;BEL;42;1124;11;2335
+Atp Cup;261;Steve Darcis;R;BEL;Cameron Norrie;L;GBR;200;242;52;975
+Atp Cup;260;David Goffin;R;BEL;Grigor Dimitrov;R;BUL;11;2335;20;1702
+Atp Cup;259;Dimitar Kuzmanov;R;BUL;Steve Darcis;R;BEL;417;80;200;242
+Atp Cup;258;David Goffin;R;BEL;Radu Albot;R;MDA;11;2335;46;1067
+Atp Cup;257;Steve Darcis;R;BEL;Alexander Cozbinov;R;MDA;200;242;816;18
+Atp Cup;256;Grigor Dimitrov;R;BUL;Daniel Evans;R;GBR;20;1702;42;1124
+Atp Cup;255;Cameron Norrie;L;GBR;Dimitar Kuzmanov;R;BUL;52;975;417;80
+Atp Cup;254;Daniel Evans;R;GBR;Radu Albot;R;MDA;42;1124;46;1067
+Atp Cup;253;Cameron Norrie;L;GBR;Alexander Cozbinov;R;MDA;52;975;816;18
+Atp Cup;252;Grigor Dimitrov;R;BUL;Radu Albot;R;MDA;20;1702;46;1067
+Atp Cup;251;Dimitar Kuzmanov;R;BUL;Alexander Cozbinov;R;MDA;417;80;816;18
+Atp Cup;250;Daniil Medvedev;R;RUS;Fabio Fognini;R;ITA;5;5705;12;2290
+Atp Cup;249;Karen Khachanov;R;RUS;Stefano Travaglia;U;ITA;17;1840;82;637
+Atp Cup;248;Daniil Medvedev;R;RUS;John Isner;R;USA;5;5705;19;1770
+Atp Cup;247;Karen Khachanov;R;RUS;Taylor Fritz;R;USA;17;1840;31;1315
+Atp Cup;246;Daniil Medvedev;R;RUS;Casper Ruud;R;NOR;5;5705;53;949
+Atp Cup;245;Karen Khachanov;R;RUS;Viktor Durasovic;U;NOR;17;1840;329;117
+Atp Cup;244;Fabio Fognini;R;ITA;John Isner;R;USA;12;2290;19;1770
+Atp Cup;243;Stefano Travaglia;U;ITA;Taylor Fritz;R;USA;82;637;31;1315
+Atp Cup;242;Casper Ruud;R;NOR;Fabio Fognini;R;ITA;53;949;12;2290
+Atp Cup;241;Stefano Travaglia;U;ITA;Viktor Durasovic;U;NOR;82;637;329;117
+Atp Cup;240;Casper Ruud;R;NOR;John Isner;R;USA;53;949;19;1770
+Atp Cup;239;Taylor Fritz;R;USA;Viktor Durasovic;U;NOR;31;1315;329;117
+Atp Cup;238;Borna Coric;R;CRO;Dominic Thiem;R;AUT;28;1415;4;5825
+Atp Cup;237;Marin Cilic;R;CRO;Dennis Novak;R;AUT;38;1165;105;524
+Atp Cup;236;Dominic Thiem;R;AUT;Diego Schwartzman;R;ARG;4;5825;13;2125
+Atp Cup;235;Dennis Novak;R;AUT;Guido Pella;L;ARG;105;524;25;1530
+Atp Cup;234;Hubert Hurkacz;R;POL;Dominic Thiem;R;AUT;37;1198;4;5825
+Atp Cup;233;Kacper Zuk;R;POL;Dennis Novak;R;AUT;448;70;105;524
+Atp Cup;232;Diego Schwartzman;R;ARG;Borna Coric;R;CRO;13;2125;28;1415
+Atp Cup;231;Guido Pella;L;ARG;Marin Cilic;R;CRO;25;1530;38;1165
+Atp Cup;230;Hubert Hurkacz;R;POL;Borna Coric;R;CRO;37;1198;28;1415
+Atp Cup;229;Marin Cilic;R;CRO;Kacper Zuk;R;POL;38;1165;448;70
+Atp Cup;228;Hubert Hurkacz;R;POL;Diego Schwartzman;R;ARG;37;1198;13;2125
+Atp Cup;227;Guido Pella;L;ARG;Kamil Majchrzak;R;POL;25;1530;97;575
+Atp Cup;226;Stefanos Tsitsipas;R;GRE;Alexander Zverev;R;GER;6;5300;7;3345
+Atp Cup;225;Jan Lennard Struff;R;GER;Michail Pervolarakis;R;CYP;35;1245;486;62
+Atp Cup;224;Denis Shapovalov;L;CAN;Alexander Zverev;R;GER;14;2050;7;3345
+Atp Cup;223;Jan Lennard Struff;R;GER;Felix Auger Aliassime;R;CAN;35;1245;21;1636
+Atp Cup;222;Alex De Minaur;R;AUS;Alexander Zverev;R;GER;18;1775;7;3345
+Atp Cup;221;Nick Kyrgios;R;AUS;Jan Lennard Struff;R;GER;29;1375;35;1245
+Atp Cup;220;Denis Shapovalov;L;CAN;Stefanos Tsitsipas;R;GRE;14;2050;6;5300
+Atp Cup;219;Felix Auger Aliassime;R;CAN;Michail Pervolarakis;R;CYP;21;1636;486;62
+Atp Cup;218;Nick Kyrgios;R;AUS;Stefanos Tsitsipas;R;GRE;29;1375;6;5300
+Atp Cup;217;John Millman;R;AUS;Michail Pervolarakis;R;CYP;48;1026;486;62
+Atp Cup;216;Alex De Minaur;R;AUS;Denis Shapovalov;L;CAN;18;1775;14;2050
+Atp Cup;215;John Millman;R;AUS;Felix Auger Aliassime;R;CAN;48;1026;21;1636
+Doha;300;Andrey Rublev;R;RUS;Corentin Moutet;L;FRA;23;1584;81;638
+Doha;299;Corentin Moutet;L;FRA;Stan Wawrinka;R;SUI;81;638;15;1955
+Doha;298;Andrey Rublev;R;RUS;Miomir Kecmanovic;R;SRB;23;1584;62;881
+Doha;297;Stan Wawrinka;R;SUI;Aljaz Bedene;R;SLO;15;1955;58;905
+Doha;296;Corentin Moutet;L;FRA;Fernando Verdasco;L;ESP;81;638;49;1025
+Doha;295;Miomir Kecmanovic;R;SRB;Marton Fucsovics;R;HUN;62;881;70;790
+Doha;294;Andrey Rublev;R;RUS;Pierre Hugues Herbert;R;FRA;23;1584;65;840
+Doha;293;Stan Wawrinka;R;SUI;Jeremy Chardy;R;FRA;15;1955;54;920
+Doha;292;Aljaz Bedene;R;SLO;Alexander Bublik;R;KAZ;58;905;55;919
+Doha;291;Corentin Moutet;L;FRA;Milos Raonic;R;CAN;81;638;32;1305
+Doha;290;Fernando Verdasco;L;ESP;Filip Krajinovic;R;SRB;49;1025;40;1148
+Doha;289;Marton Fucsovics;R;HUN;Cem Ilkel;R;TUR;70;790;279;144
+Doha;288;Miomir Kecmanovic;R;SRB;Jo-Wilfried Tsonga;R;FRA;62;881;30;1340
+Doha;287;Pierre Hugues Herbert;R;FRA;Laslo Djere;R;SRB;65;840;39;1151
+Doha;286;Andrey Rublev;R;RUS;Mikhail Kukushkin;R;KAZ;23;1584;66;816
+Doha;284;Jeremy Chardy;R;FRA;Gregoire Barrere;R;FRA;54;920;83;636
+Doha;283;Aljaz Bedene;R;SLO;Mikael Ymer;R;SWE;58;905;76;681
+Doha;282;Alexander Bublik;R;KAZ;Adrian Mannarino;L;FRA;55;919;43;1111
+Doha;280;Corentin Moutet;L;FRA;Tennys Sandgren;R;USA;81;638;68;803
+Doha;279;Fernando Verdasco;L;ESP;Pablo Andujar;R;ESP;49;1025;64;867
+Doha;278;Filip Krajinovic;R;SRB;Kyle Edmund;R;GBR;40;1148;69;800
+Doha;277;Marton Fucsovics;R;HUN;Frances Tiafoe;R;USA;70;790;47;1050
+Doha;276;Cem Ilkel;R;TUR;Ricardas Berankis;R;LTU;279;144;67;804
+Doha;275;Miomir Kecmanovic;R;SRB;Jordan Thompson;R;AUS;62;881;63;878
+Doha;273;Laslo Djere;R;SRB;Lorenzo Sonego;R;ITA;39;1151;51;990
+Doha;272;Pierre Hugues Herbert;R;FRA;Marco Cecchinato;R;ITA;65;840;75;690
+Doha;271;Mikhail Kukushkin;R;KAZ;Malek Jaziri;R;TUN;66;816;229;206
+Adelaide;300;Andrey Rublev;R;RUS;Lloyd Harris;R;RSA;18;1799;91;594
+Adelaide;299;Lloyd Harris;R;RSA;Tommy Paul;R;USA;91;594;90;600
+Adelaide;298;Andrey Rublev;R;RUS;Felix Auger Aliassime;R;CAN;18;1799;22;1656
+Adelaide;297;Tommy Paul;R;USA;Albert Ramos;L;ESP;90;600;42;1130
+Adelaide;296;Lloyd Harris;R;RSA;Pablo Carreno Busta;R;ESP;91;594;30;1377
+Adelaide;295;Andrey Rublev;R;RUS;Daniel Evans;R;GBR;18;1799;33;1324
+Adelaide;294;Felix Auger Aliassime;R;CAN;Alex Bolt;L;AUS;22;1656;157;332
+Adelaide;293;Albert Ramos;L;ESP;Jaume Munar;R;ESP;42;1130;88;608
+Adelaide;292;Tommy Paul;R;USA;Pablo Cuevas;R;URU;90;600;44;1097
+Adelaide;291;Pablo Carreno Busta;R;ESP;Jeremy Chardy;R;FRA;30;1377;56;920
+Adelaide;290;Lloyd Harris;R;RSA;Laslo Djere;R;SRB;91;594;40;1165
+Adelaide;289;Daniel Evans;R;GBR;Alexander Bublik;R;KAZ;33;1324;55;934
+Adelaide;288;Andrey Rublev;R;RUS;Sam Querrey;R;USA;18;1799;45;1080
+Adelaide;287;Alex Bolt;L;AUS;Jan Lennard Struff;R;GER;157;332;37;1270
+Adelaide;286;Felix Auger Aliassime;R;CAN;James Duckworth;R;AUS;22;1656;96;576
+Adelaide;284;Albert Ramos;L;ESP;Jordan Thompson;R;AUS;42;1130;65;843
+Adelaide;283;Tommy Paul;R;USA;Aljaz Bedene;R;SLO;90;600;54;950
+Adelaide;282;Pablo Cuevas;R;URU;Reilly Opelka;R;USA;44;1097;38;1227
+Adelaide;280;Jeremy Chardy;R;FRA;Gilles Simon;R;FRA;56;920;60;890
+Adelaide;279;Laslo Djere;R;SRB;Alexei Popyrin;R;AUS;40;1165;95;585
+Adelaide;278;Lloyd Harris;R;RSA;Christian Garin;R;CHI;91;594;36;1285
+Adelaide;277;Alexander Bublik;R;KAZ;Taylor Fritz;R;USA;55;934;32;1335
+Adelaide;276;Daniel Evans;R;GBR;Juan Ignacio Londero;R;ARG;33;1324;51;1017
+Adelaide;275;Sam Querrey;R;USA;Gregoire Barrere;R;FRA;45;1080;82;643
+Adelaide;273;Jan Lennard Struff;R;GER;Salvatore Caruso;R;ITA;37;1270;94;586
+Adelaide;272;Alex Bolt;L;AUS;Stephane Robert;R;FRA;157;332;661;30
+Adelaide;271;James Duckworth;R;AUS;Federico Delbonis;L;ARG;96;576;73;709
+Auckland;300;Ugo Humbert;L;FRA;Benoit Paire;R;FRA;57;900;24;1598
+Auckland;299;Benoit Paire;R;FRA;Hubert Hurkacz;R;POL;24;1598;34;1318
+Auckland;298;Ugo Humbert;L;FRA;John Isner;R;USA;57;900;20;1770
+Auckland;297;Hubert Hurkacz;R;POL;Feliciano Lopez;L;ESP;34;1318;61;888
+Auckland;296;Benoit Paire;R;FRA;John Millman;R;AUS;24;1598;47;1071
+Auckland;295;John Isner;R;USA;Kyle Edmund;R;GBR;20;1770;69;800
+Auckland;294;Ugo Humbert;L;FRA;Denis Shapovalov;L;CAN;57;900;13;2200
+Auckland;293;Feliciano Lopez;L;ESP;Fabio Fognini;R;ITA;61;888;12;2310
+Auckland;292;Hubert Hurkacz;R;POL;Mikael Ymer;R;SWE;34;1318;77;685
+Auckland;291;John Millman;R;AUS;Karen Khachanov;R;RUS;47;1071;16;1995
+Auckland;290;Benoit Paire;R;FRA;Thiago Monteiro;L;BRA;24;1598;86;616
+Auckland;289;Kyle Edmund;R;GBR;Andreas Seppi;R;ITA;69;800;84;636
+Auckland;288;John Isner;R;USA;Tennys Sandgren;R;USA;20;1770;101;553
+Auckland;287;Ugo Humbert;L;FRA;Marco Cecchinato;R;ITA;57;900;76;690
+Auckland;286;Denis Shapovalov;L;CAN;Vasek Pospisil;R;CAN;13;2200;146;360
+Auckland;284;Feliciano Lopez;L;ESP;Pablo Andujar;R;ESP;61;888;63;867
+Auckland;283;Mikael Ymer;R;SWE;Frances Tiafoe;R;USA;77;685;49;1050
+Auckland;282;Hubert Hurkacz;R;POL;Lorenzo Sonego;R;ITA;34;1318;52;990
+Auckland;280;John Millman;R;AUS;Michael Mmoh;R;USA;47;1071;227;207
+Auckland;279;Thiago Monteiro;L;BRA;Cameron Norrie;L;GBR;86;616;62;885
+Auckland;278;Benoit Paire;R;FRA;Jannik Sinner;U;ITA;24;1598;79;671
+Auckland;277;Andreas Seppi;R;ITA;Adrian Mannarino;L;FRA;84;636;43;1111
+Auckland;276;Kyle Edmund;R;GBR;Alejandro Davidovich Fokina;R;ESP;69;800;85;627
+Auckland;275;Tennys Sandgren;R;USA;Michael Venus;R;NZL;101;553;;
+Auckland;273;Marco Cecchinato;R;ITA;Leonardo Mayer;R;ARG;76;690;100;558
+Auckland;272;Ugo Humbert;L;FRA;Casper Ruud;R;NOR;57;900;46;1079
+Auckland;271;Vasek Pospisil;R;CAN;Joao Sousa;R;POR;146;360;58;891
+Australian Open;220;Dominic Thiem;R;AUT;Rafael Nadal;L;ESP;5;5890;1;10235
+Australian Open;225;Novak Djokovic;R;SRB;Roger Federer;R;SUI;2;9720;3;6590
+Australian Open;214;Stan Wawrinka;R;SUI;Daniil Medvedev;R;RUS;15;2045;4;5960
+Australian Open;226;Novak Djokovic;R;SRB;Dominic Thiem;R;AUT;2;9720;5;5890
+Australian Open;208;Milos Raonic;R;CAN;Stefanos Tsitsipas;R;GRE;35;1305;6;5375
+Australian Open;224;Dominic Thiem;R;AUT;Alexander Zverev;R;GER;5;5890;7;3345
+Australian Open;180;Tennys Sandgren;R;USA;Matteo Berrettini;R;ITA;100;573;8;2870
+Australian Open;209;Marin Cilic;R;CRO;Roberto Bautista Agut;R;ESP;39;1205;9;2630
+Australian Open;213;Dominic Thiem;R;AUT;Gael Monfils;R;FRA;5;5890;10;2565
+Australian Open;202;Andrey Rublev;R;RUS;David Goffin;R;BEL;16;2004;11;2555
+Australian Open;216;Tennys Sandgren;R;USA;Fabio Fognini;R;ITA;100;573;12;2310
+Australian Open;140;Marton Fucsovics;R;HUN;Denis Shapovalov;L;CAN;67;827;13;2200
+Australian Open;219;Novak Djokovic;R;SRB;Diego Schwartzman;R;ARG;2;9720;14;2130
+Australian Open;221;Alexander Zverev;R;GER;Stan Wawrinka;R;SUI;7;3345;15;2045
+Australian Open;197;Nick Kyrgios;R;AUS;Karen Khachanov;R;RUS;26;1520;17;1995
+Australian Open;215;Alexander Zverev;R;GER;Andrey Rublev;R;RUS;7;3345;16;2004
+Australian Open;185;Tommy Paul;R;USA;Grigor Dimitrov;R;BUL;80;696;20;1772
+Australian Open;201;Stan Wawrinka;R;SUI;John Isner;R;USA;15;2045;19;1860
+Australian Open;111;Ernests Gulbis;R;LAT;Felix Auger Aliassime;R;CAN;256;179;22;1701
+Australian Open;190;Marin Cilic;R;CRO;Benoit Paire;R;FRA;39;1205;21;1703
+Australian Open;205;Fabio Fognini;R;ITA;Guido Pella;L;ARG;12;2310;25;1585
+Australian Open;212;Rafael Nadal;L;ESP;Nick Kyrgios;R;AUS;1;10235;26;1520
+Australian Open;210;Diego Schwartzman;R;ARG;Dusan Lajovic;R;SRB;14;2130;27;1516
+Australian Open;135;Sam Querrey;R;USA;Borna Coric;R;CRO;45;1100;28;1490
+Australian Open;178;Fernando Verdasco;L;ESP;Nikoloz Basilashvili;R;GEO;51;1050;29;1485
+Australian Open;196;Rafael Nadal;L;ESP;Pablo Carreno Busta;R;ESP;1;10235;30;1422
+Australian Open;119;Alexei Popyrin;R;AUS;Jo-Wilfried Tsonga;R;FRA;96;585;33;1340
+Australian Open;199;Dominic Thiem;R;AUT;Taylor Fritz;R;USA;5;5890;34;1335
+Australian Open;194;Yoshihito Nishioka;L;JPN;Daniel Evans;R;GBR;71;797;32;1349
+Australian Open;186;John Millman;R;AUS;Hubert Hurkacz;R;POL;47;1096;31;1398
+Australian Open;223;Novak Djokovic;R;SRB;Milos Raonic;R;CAN;2;9720;35;1305
+Australian Open;103;Pablo Carreno Busta;R;ESP;Jozef Kovalik;R;SVK;30;1422;139;379
+Australian Open;151;Milos Raonic;R;CAN;Lorenzo Giustino;R;ITA;35;1305;150;347
+Australian Open;162;Tatsuma Ito;R;JPN;Prajnesh Gunneswaran;L;IND;146;362;123;442
+Australian Open;129;Fernando Verdasco;L;ESP;Evgeny Donskoy;R;RUS;51;1050;106;522
+Australian Open;172;Daniil Medvedev;R;RUS;Pedro Martinez;R;ESP;4;5960;168;300
+Australian Open;198;Gael Monfils;R;FRA;Ernests Gulbis;R;LAT;10;2565;256;179
+Australian Open;107;Karen Khachanov;R;RUS;Mario Vilella Martinez;U;ESP;17;1995;196;254
+Australian Open;174;John Isner;R;USA;Alejandro Tabilo;L;CHI;19;1860;208;233
+Australian Open;165;Pablo Carreno Busta;R;ESP;Peter Gojowczyk;R;GER;30;1422;120;463
+Australian Open;112;Taylor Fritz;R;USA;Tallon Griekspoor;R;NED;34;1335;175;288
+Australian Open;144;Hubert Hurkacz;R;POL;Dennis Novak;R;AUT;31;1398;99;574
+Australian Open;102;Peter Gojowczyk;R;GER;Christopher Eubanks;R;USA;120;463;221;215
+Australian Open;121;Alejandro Tabilo;L;CHI;Daniel Elahi Galan;U;COL;208;233;186;269
+Australian Open;113;Kevin Anderson;R;RSA;Ilya Ivashka;R;BLR;122;445;149;354
+Australian Open;126;Yuichi Sugita;R;JPN;Elliot Benchetrit;U;FRA;91;608;231;205
+Australian Open;133;Tennys Sandgren;R;USA;Marco Trungelliti;R;ARG;100;573;202;238
+Australian Open;137;Gregoire Barrere;R;FRA;Mohamed Safwat;R;EGY;84;649;173;291
+Australian Open;141;Jannik Sinner;U;ITA;Max Purcell;U;AUS;82;671;216;221
+Australian Open;146;Filip Krajinovic;R;SRB;Quentin Halys;R;FRA;41;1158;215;222
+Australian Open;157;Alejandro Davidovich Fokina;R;ESP;Norbert Gombos;R;SVK;88;627;113;498
+Australian Open;195;Novak Djokovic;R;SRB;Tatsuma Ito;R;JPN;2;9720;146;362
+Australian Open;171;Dominic Thiem;R;AUT;Alex Bolt;L;AUS;5;5890;140;377
+Australian Open;132;Matteo Berrettini;R;ITA;Andrew Harris;R;AUS;8;2870;162;316
+Australian Open;191;Roberto Bautista Agut;R;ESP;Michael Mmoh;R;USA;9;2630;217;219
+Australian Open;127;Andrey Rublev;R;RUS;Christopher O'Connell;U;AUS;16;2004;115;481
+Australian Open;136;Guido Pella;L;ARG;John Patrick Smith;L;AUS;25;1585;308;130
+Australian Open;193;Dusan Lajovic;R;SRB;Marc Polmans;U;AUS;27;1516;133;411
+Australian Open;118;Jaume Munar;R;ESP;Hugo Gaston;U;FRA;90;608;247;189
+Australian Open;100;Rafael Nadal;L;ESP;Hugo Dellien;R;BOL;1;10235;73;743
+Australian Open;164;Rafael Nadal;L;ESP;Federico Delbonis;L;ARG;1;10235;76;711
+Australian Open;163;Novak Djokovic;R;SRB;Jan Lennard Struff;R;GER;2;9720;37;1270
+Australian Open;211;Novak Djokovic;R;SRB;Yoshihito Nishioka;L;JPN;2;9720;71;797
+Australian Open;147;Roger Federer;R;SUI;Steve Johnson;R;USA;3;6590;75;720
+Australian Open;187;Roger Federer;R;SUI;Filip Krajinovic;R;SRB;3;6590;41;1158
+Australian Open;207;Roger Federer;R;SUI;John Millman;R;AUS;3;6590;47;1096
+Australian Open;217;Roger Federer;R;SUI;Marton Fucsovics;R;HUN;3;6590;67;827
+Australian Open;222;Roger Federer;R;SUI;Tennys Sandgren;R;USA;3;6590;100;573
+Australian Open;116;Daniil Medvedev;R;RUS;Frances Tiafoe;R;USA;4;5960;50;1050
+Australian Open;200;Daniil Medvedev;R;RUS;Alexei Popyrin;R;AUS;4;5960;96;585
+Australian Open;115;Dominic Thiem;R;AUT;Adrian Mannarino;L;FRA;5;5890;44;1111
+Australian Open;148;Stefanos Tsitsipas;R;GRE;Salvatore Caruso;R;ITA;6;5375;95;586
+Australian Open;188;Stefanos Tsitsipas;R;GRE;Philipp Kohlschreiber;R;GER;6;5375;79;700
+Australian Open;131;Alexander Zverev;R;GER;Marco Cecchinato;R;ITA;7;3345;77;710
+Australian Open;179;Alexander Zverev;R;GER;Egor Gerasimov;R;BLR;7;3345;98;575
+Australian Open;203;Alexander Zverev;R;GER;Fernando Verdasco;L;ESP;7;3345;51;1050
+Australian Open;155;Roberto Bautista Agut;R;ESP;Feliciano Lopez;L;ESP;9;2630;57;933
+Australian Open;108;Gael Monfils;R;FRA;Yen Hsun Lu;R;TPE;10;2565;;
+Australian Open;168;Gael Monfils;R;FRA;Ivo Karlovic;R;CRO;10;2565;124;436
+Australian Open;124;David Goffin;R;BEL;Jeremy Chardy;R;FRA;11;2555;58;920
+Australian Open;176;David Goffin;R;BEL;Pierre Hugues Herbert;R;FRA;11;2555;64;865
+Australian Open;139;Fabio Fognini;R;ITA;Reilly Opelka;R;USA;12;2310;38;1227
+Australian Open;183;Fabio Fognini;R;ITA;Jordan Thompson;R;AUS;12;2310;66;843
+Australian Open;156;Diego Schwartzman;R;ARG;Lloyd Harris;R;RSA;14;2130;72;746
+Australian Open;192;Diego Schwartzman;R;ARG;Alejandro Davidovich Fokina;R;ESP;14;2130;88;627
+Australian Open;123;Stan Wawrinka;R;SUI;Damir Dzumhur;R;BIH;15;2045;92;594
+Australian Open;175;Stan Wawrinka;R;SUI;Andreas Seppi;R;ITA;15;2045;85;646
+Australian Open;167;Karen Khachanov;R;RUS;Mikael Ymer;R;SWE;17;1995;78;709
+Australian Open;177;Andrey Rublev;R;RUS;Yuichi Sugita;R;JPN;16;2004;91;608
+Australian Open;143;Grigor Dimitrov;R;BUL;Juan Ignacio Londero;R;ARG;20;1772;52;1017
+Australian Open;120;John Isner;R;USA;Thiago Monteiro;L;BRA;19;1860;86;640
+Australian Open;152;Benoit Paire;R;FRA;Cedrik Marcel Stebe;L;GER;21;1703;154;340
+Australian Open;182;Guido Pella;L;ARG;Gregoire Barrere;R;FRA;25;1585;84;649
+Australian Open;104;Nick Kyrgios;R;AUS;Lorenzo Sonego;R;ITA;26;1520;53;990
+Australian Open;166;Nick Kyrgios;R;AUS;Gilles Simon;R;FRA;26;1520;61;890
+Australian Open;159;Dusan Lajovic;R;SRB;Kyle Edmund;R;GBR;27;1516;65;845
+Australian Open;128;Nikoloz Basilashvili;R;GEO;Soon Woo Kwon;R;KOR;29;1485;87;637
+Australian Open;170;Taylor Fritz;R;USA;Kevin Anderson;R;RSA;34;1335;122;445
+Australian Open;160;Daniel Evans;R;GBR;Mackenzie McDonald;R;USA;32;1349;129;419
+Australian Open;189;Milos Raonic;R;CAN;Christian Garin;R;CHI;35;1305;36;1285
+Australian Open;218;Milos Raonic;R;CAN;Marin Cilic;R;CRO;35;1305;39;1205
+Australian Open;117;Pedro Martinez;R;ESP;Dominik Koepfer;L;GER;168;300;89;609
+Australian Open;169;Ernests Gulbis;R;LAT;Aljaz Bedene;R;SLO;256;179;55;950
+Australian Open;114;Alex Bolt;L;AUS;Albert Ramos;L;ESP;140;377;42;1130
+Australian Open;154;Michael Mmoh;R;USA;Pablo Andujar;R;ESP;217;219;63;867
+Australian Open;158;Marc Polmans;U;AUS;Mikhail Kukushkin;R;KAZ;133;411;68;816
+Australian Open;101;Federico Delbonis;L;ARG;Joao Sousa;R;POR;76;711;59;891
+Australian Open;105;Gilles Simon;R;FRA;Pablo Cuevas;R;URU;61;890;46;1097
+Australian Open;106;Mikael Ymer;R;SWE;Yasutaka Uchiyama;R;JPN;78;709;93;594
+Australian Open;109;Ivo Karlovic;R;CRO;Vasek Pospisil;R;CAN;124;436;138;392
+Australian Open;110;Aljaz Bedene;R;SLO;James Duckworth;R;AUS;55;950;94;588
+Australian Open;122;Andreas Seppi;R;ITA;Miomir Kecmanovic;R;SRB;85;646;54;959
+Australian Open;125;Pierre Hugues Herbert;R;FRA;Cameron Norrie;L;GBR;64;865;62;885
+Australian Open;130;Egor Gerasimov;R;BLR;Casper Ruud;R;NOR;98;575;48;1079
+Australian Open;134;Ricardas Berankis;R;LTU;Roberto Carballes Baena;R;ESP;69;804;83;664
+Australian Open;138;Jordan Thompson;R;AUS;Alexander Bublik;R;KAZ;66;843;56;948
+Australian Open;142;Tommy Paul;R;USA;Leonardo Mayer;R;ARG;80;696;101;564
+Australian Open;145;John Millman;R;AUS;Ugo Humbert;L;FRA;47;1096;43;1130
+Australian Open;149;Philipp Kohlschreiber;R;GER;Marcos Giron;R;USA;79;700;107;521
+Australian Open;150;Christian Garin;R;CHI;Stefano Travaglia;U;ITA;36;1285;74;730
+Australian Open;153;Marin Cilic;R;CRO;Corentin Moutet;L;FRA;39;1205;70;800
+Australian Open;161;Yoshihito Nishioka;L;JPN;Laslo Djere;R;SRB;71;797;40;1185
+Australian Open;173;Alexei Popyrin;R;AUS;Jaume Munar;R;ESP;96;585;90;608
+Australian Open;181;Sam Querrey;R;USA;Ricardas Berankis;R;LTU;45;1100;69;804
+Australian Open;184;Marton Fucsovics;R;HUN;Jannik Sinner;U;ITA;67;827;82;671
+Australian Open;204;Tennys Sandgren;R;USA;Sam Querrey;R;USA;100;573;45;1100
+Australian Open;206;Marton Fucsovics;R;HUN;Tommy Paul;R;USA;67;827;80;696
+Cordoba;300;Christian Garin;R;CHI;Diego Schwartzman;R;ARG;31;1320;14;2220
+Cordoba;299;Diego Schwartzman;R;ARG;Laslo Djere;R;SRB;14;2220;39;1185
+Cordoba;298;Christian Garin;R;CHI;Andrej Martin;R;SVK;31;1320;100;551
+Cordoba;297;Diego Schwartzman;R;ARG;Albert Ramos;L;ESP;14;2220;42;1130
+Cordoba;296;Laslo Djere;R;SRB;Juan Ignacio Londero;R;ARG;39;1185;50;1012
+Cordoba;295;Christian Garin;R;CHI;Pablo Cuevas;R;URU;31;1320;48;1062
+Cordoba;294;Andrej Martin;R;SVK;Corentin Moutet;L;FRA;100;551;71;777
+Cordoba;293;Diego Schwartzman;R;ARG;Jaume Munar;R;ESP;14;2220;87;643
+Cordoba;292;Albert Ramos;L;ESP;Pablo Andujar;R;ESP;42;1130;63;867
+Cordoba;291;Laslo Djere;R;SRB;Pedro Martinez;R;ESP;39;1185;150;347
+Cordoba;290;Juan Ignacio Londero;R;ARG;Pedro Cachin;R;ARG;50;1012;354;104
+Cordoba;289;Pablo Cuevas;R;URU;Gianluca Mager;R;ITA;48;1062;133;401
+Cordoba;288;Christian Garin;R;CHI;Attila Balazs;R;HUN;31;1320;108;505
+Cordoba;287;Andrej Martin;R;SVK;Carlos Taberner;R;ESP;100;551;198;252
+Cordoba;286;Corentin Moutet;L;FRA;Guido Pella;L;ARG;71;777;22;1665
+Cordoba;284;Jaume Munar;R;ESP;Leonardo Mayer;R;ARG;87;643;103;529
+Cordoba;283;Pablo Andujar;R;ESP;Filip Horansky;R;SVK;63;867;173;300
+Cordoba;282;Albert Ramos;L;ESP;Facundo Bagnis;L;ARG;42;1130;135;392
+Cordoba;280;Pedro Martinez;R;ESP;Federico Gaio;R;ITA;150;347;124;422
+Cordoba;279;Pedro Cachin;R;ARG;Hugo Dellien;R;BOL;354;104;77;738
+Cordoba;278;Juan Ignacio Londero;R;ARG;Marco Cecchinato;R;ITA;50;1012;72;758
+Cordoba;277;Pablo Cuevas;R;URU;Federico Delbonis;L;ARG;48;1062;74;746
+Cordoba;276;Gianluca Mager;R;ITA;Juan Pablo Ficovich;R;ARG;133;401;244;196
+Cordoba;275;Attila Balazs;R;HUN;Lorenzo Sonego;R;ITA;108;505;52;980
+Cordoba;273;Carlos Taberner;R;ESP;Fernando Verdasco;L;ESP;198;252;49;1050
+Cordoba;272;Andrej Martin;R;SVK;Federico Coria;R;ARG;100;551;116;466
+Cordoba;271;Corentin Moutet;L;FRA;Thiago Monteiro;L;BRA;71;777;89;634
+Montpellier;300;Gael Monfils;R;FRA;Vasek Pospisil;R;CAN;9;2700;132;402
+Montpellier;299;Gael Monfils;R;FRA;Filip Krajinovic;R;SRB;9;2700;44;1113
+Montpellier;298;Vasek Pospisil;R;CAN;David Goffin;R;BEL;132;402;10;2555
+Montpellier;297;Gael Monfils;R;FRA;Norbert Gombos;R;SVK;9;2700;104;527
+Montpellier;296;Filip Krajinovic;R;SRB;Gregoire Barrere;R;FRA;44;1113;91;612
+Montpellier;295;Vasek Pospisil;R;CAN;Richard Gasquet;R;FRA;132;402;58;890
+Montpellier;294;David Goffin;R;BEL;Pierre Hugues Herbert;R;FRA;10;2555;67;820
+Montpellier;293;Gael Monfils;R;FRA;Adrian Mannarino;L;FRA;9;2700;45;1111
+Montpellier;292;Norbert Gombos;R;SVK;Emil Ruusuvuori;R;FIN;104;527;101;540
+Montpellier;291;Gregoire Barrere;R;FRA;Grigor Dimitrov;R;BUL;91;612;23;1637
+Montpellier;290;Filip Krajinovic;R;SRB;Mikael Ymer;R;SWE;44;1113;76;739
+Montpellier;289;Richard Gasquet;R;FRA;Feliciano Lopez;L;ESP;58;890;55;933
+Montpellier;288;Vasek Pospisil;R;CAN;Denis Shapovalov;L;CAN;132;402;16;2120
+Montpellier;287;Pierre Hugues Herbert;R;FRA;Felix Auger Aliassime;R;CAN;67;820;21;1666
+Montpellier;286;David Goffin;R;BEL;Alexander Bublik;R;KAZ;10;2555;54;952
+Montpellier;284;Adrian Mannarino;L;FRA;Alexei Popyrin;R;AUS;45;1111;99;585
+Montpellier;283;Emil Ruusuvuori;R;FIN;Dennis Novak;R;AUT;101;540;93;609
+Montpellier;282;Norbert Gombos;R;SVK;Pablo Carreno Busta;R;ESP;104;527;29;1332
+Montpellier;280;Gregoire Barrere;R;FRA;Joao Sousa;R;POR;91;612;69;811
+Montpellier;279;Mikael Ymer;R;SWE;Jannik Sinner;U;ITA;76;739;78;710
+Montpellier;278;Filip Krajinovic;R;SRB;Enzo Couacaud;R;FRA;44;1113;214;221
+Montpellier;277;Feliciano Lopez;L;ESP;Ugo Humbert;L;FRA;55;933;43;1121
+Montpellier;276;Richard Gasquet;R;FRA;Gilles Simon;R;FRA;58;890;59;890
+Montpellier;275;Vasek Pospisil;R;CAN;Aljaz Bedene;R;SLO;132;402;51;985
+Montpellier;273;Felix Auger Aliassime;R;CAN;Damir Dzumhur;R;BIH;21;1666;97;594
+Montpellier;272;Pierre Hugues Herbert;R;FRA;Sergiy Stakhovsky;R;UKR;67;820;153;342
+Montpellier;271;Alexander Bublik;R;KAZ;Henri Laaksonen;R;SUI;54;952;112;480
+Pune;300;Jiri Vesely;L;CZE;Egor Gerasimov;R;BLR;107;520;90;620
+Pune;299;Egor Gerasimov;R;BLR;James Duckworth;R;AUS;90;620;96;598
+Pune;298;Jiri Vesely;L;CZE;Ricardas Berankis;R;LTU;107;520;73;751
+Pune;297;James Duckworth;R;AUS;Roberto Marcora;R;ITA;96;598;174;297
+Pune;296;Egor Gerasimov;R;BLR;Soon Woo Kwon;R;KOR;90;620;88;637
+Pune;295;Jiri Vesely;L;CZE;Ilya Ivashka;R;BLR;107;520;152;344
+Pune;294;Ricardas Berankis;R;LTU;Yuichi Sugita;R;JPN;73;751;86;645
+Pune;293;Roberto Marcora;R;ITA;Benoit Paire;R;FRA;174;297;19;1738
+Pune;292;James Duckworth;R;AUS;Taro Daniel;R;JPN;96;598;102;536
+Pune;291;Soon Woo Kwon;R;KOR;Prajnesh Gunneswaran;L;IND;88;637;122;433
+Pune;290;Egor Gerasimov;R;BLR;Nikola Milojevic;U;SRB;90;620;148;357
+Pune;289;Jiri Vesely;L;CZE;Salvatore Caruso;R;ITA;107;520;98;588
+Pune;288;Ilya Ivashka;R;BLR;Stefano Travaglia;U;ITA;152;344;82;670
+Pune;287;Yuichi Sugita;R;JPN;Viktor Troicki;R;SRB;86;645;191;263
+Pune;286;Ricardas Berankis;R;LTU;Cedrik Marcel Stebe;L;GER;73;751;149;350
+Pune;284;Roberto Marcora;R;ITA;Lukas Rosol;R;CZE;174;297;176;292
+Pune;283;Taro Daniel;R;JPN;Sasi Kumar Mukund;R;IND;102;536;263;168
+Pune;282;James Duckworth;R;AUS;Peter Gojowczyk;R;GER;96;598;106;523
+Pune;280;Prajnesh Gunneswaran;L;IND;Yannick Maden;U;GER;122;433;131;404
+Pune;279;Nikola Milojevic;U;SRB;Antoine Hoang;R;FRA;148;357;126;415
+Pune;278;Egor Gerasimov;R;BLR;Paolo Lorenzi;R;ITA;90;620;115;472
+Pune;277;Salvatore Caruso;R;ITA;Ramkumar Ramanathan;R;IND;98;588;182;280
+Pune;276;Jiri Vesely;L;CZE;Arjun Kadhe;R;IND;107;520;612;36
+Pune;275;Ilya Ivashka;R;BLR;Evgeny Donskoy;R;RUS;152;344;109;503
+Pune;273;Yuichi Sugita;R;JPN;Thomas Fabbiano;R;ITA;86;645;134;394
+Pune;272;Viktor Troicki;R;SRB;Sumit Nagal;R;IND;191;263;125;416
+Pune;271;Cedrik Marcel Stebe;L;GER;Ivo Karlovic;R;CRO;149;350;121;436
+Buenos Aires;300;Casper Ruud;R;NOR;Pedro Sousa;R;POR;45;1079;145;373
+Buenos Aires;299;Pedro Sousa;R;POR;Diego Schwartzman;R;ARG;145;373;14;2325
+Buenos Aires;298;Casper Ruud;R;NOR;Juan Ignacio Londero;R;ARG;45;1079;69;807
+Buenos Aires;297;Diego Schwartzman;R;ARG;Pablo Cuevas;R;URU;14;2325;48;1017
+Buenos Aires;296;Pedro Sousa;R;POR;Thiago Monteiro;L;BRA;145;373;92;634
+Buenos Aires;295;Casper Ruud;R;NOR;Dusan Lajovic;R;SRB;45;1079;23;1596
+Buenos Aires;294;Juan Ignacio Londero;R;ARG;Guido Pella;L;ARG;69;807;27;1560
+Buenos Aires;293;Diego Schwartzman;R;ARG;Federico Delbonis;L;ARG;14;2325;87;666
+Buenos Aires;292;Pablo Cuevas;R;URU;Albert Ramos;L;ESP;48;1017;42;1130
+Buenos Aires;291;Thiago Monteiro;L;BRA;Borna Coric;R;CRO;92;634;31;1320
+Buenos Aires;290;Pedro Sousa;R;POR;Jozef Kovalik;R;SVK;145;373;129;405
+Buenos Aires;289;Casper Ruud;R;NOR;Roberto Carballes Baena;R;ESP;45;1079;88;664
+Buenos Aires;288;Dusan Lajovic;R;SRB;Pedro Martinez;R;ESP;23;1596;142;379
+Buenos Aires;287;Juan Ignacio Londero;R;ARG;Laslo Djere;R;SRB;69;807;35;1265
+Buenos Aires;286;Guido Pella;L;ARG;Facundo Bagnis;L;ARG;27;1560;134;392
+Buenos Aires;284;Federico Delbonis;L;ARG;Hugo Dellien;R;BOL;87;666;77;738
+Buenos Aires;283;Pablo Cuevas;R;URU;Lorenzo Sonego;R;ITA;48;1017;49;980
+Buenos Aires;282;Albert Ramos;L;ESP;Leonardo Mayer;R;ARG;42;1130;107;529
+Buenos Aires;280;Thiago Monteiro;L;BRA;Jaume Munar;R;ESP;92;634;95;618
+Buenos Aires;279;Jozef Kovalik;R;SVK;Corentin Moutet;L;FRA;129;405;76;742
+Buenos Aires;278;Pedro Sousa;R;POR;Facundo Diaz Acosta;U;ARG;145;373;471;65
+Buenos Aires;277;Casper Ruud;R;NOR;Pablo Andujar;R;ESP;45;1079;58;887
+Buenos Aires;276;Roberto Carballes Baena;R;ESP;Marco Cecchinato;R;ITA;88;664;73;758
+Buenos Aires;275;Pedro Martinez;R;ESP;Joao Domingues;R;POR;142;379;175;286
+Buenos Aires;273;Laslo Djere;R;SRB;Francisco Cerundolo;U;ARG;35;1265;239;197
+Buenos Aires;272;Juan Ignacio Londero;R;ARG;Filip Horansky;R;SVK;69;807;182;277
+Buenos Aires;271;Facundo Bagnis;L;ARG;Andrej Martin;R;SVK;134;392;93;629
+New York;300;Kyle Edmund;R;GBR;Andreas Seppi;R;ITA;62;845;98;601
+New York;299;Andreas Seppi;R;ITA;Jason Jung;R;TPE;98;601;131;400
+New York;298;Kyle Edmund;R;GBR;Miomir Kecmanovic;R;SRB;62;845;54;921
+New York;297;Andreas Seppi;R;ITA;Jordan Thompson;R;AUS;98;601;63;843
+New York;296;Jason Jung;R;TPE;Reilly Opelka;R;USA;131;400;40;1152
+New York;295;Miomir Kecmanovic;R;SRB;Ugo Humbert;L;FRA;54;921;43;1121
+New York;294;Kyle Edmund;R;GBR;Soon Woo Kwon;R;KOR;62;845;84;672
+New York;293;Jordan Thompson;R;AUS;John Isner;R;USA;63;843;18;1940
+New York;292;Andreas Seppi;R;ITA;Steve Johnson;R;USA;98;601;75;745
+New York;291;Reilly Opelka;R;USA;Yoshihito Nishioka;L;JPN;40;1152;64;842
+New York;290;Jason Jung;R;TPE;Cameron Norrie;L;GBR;131;400;59;885
+New York;289;Miomir Kecmanovic;R;SRB;Paolo Lorenzi;R;ITA;54;921;116;472
+New York;288;Ugo Humbert;L;FRA;Marcos Giron;R;USA;43;1121;113;483
+New York;287;Kyle Edmund;R;GBR;Dominik Koepfer;L;GER;62;845;94;626
+New York;286;Soon Woo Kwon;R;KOR;Milos Raonic;R;CAN;84;672;32;1305
+New York;284;Jordan Thompson;R;AUS;Ivo Karlovic;R;CRO;63;843;122;436
+New York;283;Andreas Seppi;R;ITA;Damir Dzumhur;R;BIH;98;601;100;594
+New York;282;Steve Johnson;R;USA;Tennys Sandgren;R;USA;75;745;53;923
+New York;280;Yoshihito Nishioka;L;JPN;Henri Laaksonen;R;SUI;64;842;114;480
+New York;279;Jason Jung;R;TPE;Kevin Anderson;R;RSA;131;400;120;445
+New York;278;Cameron Norrie;L;GBR;Brian Shi;U;USA;59;885;;
+New York;277;Miomir Kecmanovic;R;SRB;Tommy Paul;R;USA;54;921;70;778
+New York;276;Paolo Lorenzi;R;ITA;Danilo Petrovic;R;SRB;116;472;159;328
+New York;275;Marcos Giron;R;USA;Jack Sock;R;USA;113;483;;
+New York;273;Kyle Edmund;R;GBR;Yasutaka Uchiyama;R;JPN;62;845;97;604
+New York;272;Dominik Koepfer;L;GER;Brayden Schnur;R;CAN;94;626;121;440
+New York;271;Soon Woo Kwon;R;KOR;Go Soeda;R;JPN;84;672;112;500
+Rotterdam;300;Gael Monfils;R;FRA;Felix Auger Aliassime;R;CAN;9;2860;21;1666
+Rotterdam;299;Gael Monfils;R;FRA;Filip Krajinovic;R;SRB;9;2860;39;1158
+Rotterdam;298;Felix Auger Aliassime;R;CAN;Pablo Carreno Busta;R;ESP;21;1666;30;1332
+Rotterdam;297;Filip Krajinovic;R;SRB;Andrey Rublev;R;RUS;39;1158;15;2174
+Rotterdam;296;Gael Monfils;R;FRA;Daniel Evans;R;GBR;9;2860;33;1296
+Rotterdam;295;Pablo Carreno Busta;R;ESP;Jannik Sinner;U;ITA;30;1332;79;710
+Rotterdam;294;Felix Auger Aliassime;R;CAN;Aljaz Bedene;R;SLO;21;1666;52;940
+Rotterdam;293;Filip Krajinovic;R;SRB;Vasek Pospisil;R;CAN;39;1158;104;552
+Rotterdam;292;Andrey Rublev;R;RUS;Alexander Bublik;R;KAZ;15;2174;56;892
+Rotterdam;291;Gael Monfils;R;FRA;Gilles Simon;R;FRA;9;2860;57;890
+Rotterdam;290;Daniel Evans;R;GBR;Karen Khachanov;R;RUS;33;1296;17;1995
+Rotterdam;289;Pablo Carreno Busta;R;ESP;Roberto Bautista Agut;R;ESP;30;1332;12;2360
+Rotterdam;288;Jannik Sinner;U;ITA;David Goffin;R;BEL;79;710;10;2600
+Rotterdam;287;Felix Auger Aliassime;R;CAN;Grigor Dimitrov;R;BUL;21;1666;22;1637
+Rotterdam;286;Aljaz Bedene;R;SLO;Stefanos Tsitsipas;R;GRE;52;940;6;4745
+Rotterdam;285;Vasek Pospisil;R;CAN;Daniil Medvedev;R;RUS;104;552;5;5890
+Rotterdam;284;Filip Krajinovic;R;SRB;Tallon Griekspoor;R;NED;39;1158;172;294
+Rotterdam;283;Alexander Bublik;R;KAZ;Gregoire Barrere;R;FRA;56;892;90;651
+Rotterdam;282;Andrey Rublev;R;RUS;Nikoloz Basilashvili;R;GEO;15;2174;28;1440
+Rotterdam;281;Gael Monfils;R;FRA;Joao Sousa;R;POR;9;2860;68;811
+Rotterdam;280;Gilles Simon;R;FRA;Mikhail Kukushkin;R;KAZ;57;890;67;816
+Rotterdam;279;Daniel Evans;R;GBR;Philipp Kohlschreiber;R;GER;33;1296;81;700
+Rotterdam;278;Karen Khachanov;R;RUS;Fabio Fognini;R;ITA;17;1995;11;2400
+Rotterdam;277;Roberto Bautista Agut;R;ESP;Marton Fucsovics;R;HUN;12;2360;66;832
+Rotterdam;276;Pablo Carreno Busta;R;ESP;Adrian Mannarino;L;FRA;30;1332;44;1111
+Rotterdam;275;Jannik Sinner;U;ITA;Radu Albot;R;MDA;79;710;50;977
+Rotterdam;274;David Goffin;R;BEL;Robin Haase;R;NED;10;2600;167;305
+Rotterdam;273;Grigor Dimitrov;R;BUL;Denis Shapovalov;L;CAN;22;1637;16;2120
+Rotterdam;272;Felix Auger Aliassime;R;CAN;Jan Lennard Struff;R;GER;21;1666;34;1270
+Rotterdam;271;Aljaz Bedene;R;SLO;Benoit Paire;R;FRA;52;940;19;1738
+Rotterdam;270;Stefanos Tsitsipas;R;GRE;Hubert Hurkacz;R;POL;6;4745;29;1433
+Delray Beach;300;Reilly Opelka;R;USA;Yoshihito Nishioka;L;JPN;54;947;63;862
+Delray Beach;299;Yoshihito Nishioka;L;JPN;Ugo Humbert;L;FRA;63;862;44;1086
+Delray Beach;298;Reilly Opelka;R;USA;Milos Raonic;R;CAN;54;947;37;1260
+Delray Beach;297;Ugo Humbert;L;FRA;Frances Tiafoe;R;USA;44;1086;84;700
+Delray Beach;296;Yoshihito Nishioka;L;JPN;Brandon Nakashima;U;USA;63;862;294;139
+Delray Beach;295;Reilly Opelka;R;USA;Soon Woo Kwon;R;KOR;54;947;82;702
+Delray Beach;294;Milos Raonic;R;CAN;Steve Johnson;R;USA;37;1260;76;745
+Delray Beach;293;Frances Tiafoe;R;USA;Tommy Paul;R;USA;84;700;70;778
+Delray Beach;292;Ugo Humbert;L;FRA;Miomir Kecmanovic;R;SRB;44;1086;50;999
+Delray Beach;291;Brandon Nakashima;U;USA;Cameron Norrie;L;GBR;294;139;60;885
+Delray Beach;290;Yoshihito Nishioka;L;JPN;Noah Rubin;R;USA;63;862;269;162
+Delray Beach;289;Soon Woo Kwon;R;KOR;Ryan Harrison;R;USA;82;702;433;73
+Delray Beach;288;Reilly Opelka;R;USA;Mackenzie McDonald;R;USA;54;947;159;327
+Delray Beach;287;Steve Johnson;R;USA;Jack Sock;R;USA;76;745;;
+Delray Beach;286;Milos Raonic;R;CAN;Cedrik Marcel Stebe;L;GER;37;1260;147;370
+Delray Beach;285;Tommy Paul;R;USA;Daniel Elahi Galan;U;COL;70;778;146;376
+Delray Beach;284;Frances Tiafoe;R;USA;Emilio Gomez;R;ECU;84;700;148;363
+Delray Beach;283;Miomir Kecmanovic;R;SRB;Jordan Thompson;R;AUS;50;999;65;843
+Delray Beach;282;Ugo Humbert;L;FRA;Stefan Kozlov;R;USA;44;1086;367;97
+Delray Beach;281;Cameron Norrie;L;GBR;Taylor Fritz;R;USA;60;885;38;1255
+Delray Beach;280;Brandon Nakashima;U;USA;Jiri Vesely;L;CZE;294;139;74;760
+Delray Beach;279;Noah Rubin;R;USA;Jason Jung;R;TPE;269;162;119;457
+Delray Beach;278;Yoshihito Nishioka;L;JPN;John Millman;R;AUS;63;862;40;1141
+Delray Beach;277;Soon Woo Kwon;R;KOR;Adrian Mannarino;L;FRA;82;702;42;1111
+Delray Beach;276;Ryan Harrison;R;USA;Damir Dzumhur;R;BIH;433;73;108;520
+Delray Beach;275;Mackenzie McDonald;R;USA;Yasutaka Uchiyama;R;JPN;159;327;96;604
+Delray Beach;274;Reilly Opelka;R;USA;Ernests Gulbis;R;LAT;54;947;224;209
+Delray Beach;273;Jack Sock;R;USA;Radu Albot;R;MDA;;;51;977
+Delray Beach;272;Steve Johnson;R;USA;Henri Laaksonen;R;SUI;76;745;134;400
+Delray Beach;271;Cedrik Marcel Stebe;L;GER;Bernard Tomic;R;AUS;147;370;197;249
+Delray Beach;270;Milos Raonic;R;CAN;Denis Istomin;R;UZB;37;1260;164;305
+Marseille;300;Stefanos Tsitsipas;R;GRE;Felix Auger Aliassime;R;CAN;6;4745;18;1921
+Marseille;299;Felix Auger Aliassime;R;CAN;Gilles Simon;R;FRA;18;1921;58;890
+Marseille;298;Stefanos Tsitsipas;R;GRE;Alexander Bublik;R;KAZ;6;4745;55;930
+Marseille;297;Gilles Simon;R;FRA;Daniil Medvedev;R;RUS;58;890;5;5890
+Marseille;296;Felix Auger Aliassime;R;CAN;Egor Gerasimov;R;BLR;18;1921;72;764
+Marseille;295;Alexander Bublik;R;KAZ;Denis Shapovalov;L;CAN;55;930;15;2075
+Marseille;294;Stefanos Tsitsipas;R;GRE;Vasek Pospisil;R;CAN;6;4745;98;597
+Marseille;293;Daniil Medvedev;R;RUS;Jannik Sinner;U;ITA;5;5890;68;793
+Marseille;292;Gilles Simon;R;FRA;Aljaz Bedene;R;SLO;58;890;47;1010
+Marseille;291;Egor Gerasimov;R;BLR;David Goffin;R;BEL;72;764;10;2600
+Marseille;290;Felix Auger Aliassime;R;CAN;Pierre Hugues Herbert;R;FRA;18;1921;79;715
+Marseille;289;Alexander Bublik;R;KAZ;Benoit Paire;R;FRA;55;930;20;1738
+Marseille;288;Denis Shapovalov;L;CAN;Marin Cilic;R;CRO;15;2075;39;1205
+Marseille;287;Vasek Pospisil;R;CAN;Hubert Hurkacz;R;POL;98;597;29;1433
+Marseille;286;Stefanos Tsitsipas;R;GRE;Mikael Ymer;R;SWE;6;4745;75;749
+Marseille;284;Jannik Sinner;U;ITA;Norbert Gombos;R;SVK;68;793;102;565
+Marseille;283;Gilles Simon;R;FRA;Harold Mayot;U;FRA;58;890;509;55
+Marseille;282;Aljaz Bedene;R;SLO;Karen Khachanov;R;RUS;47;1010;17;2040
+Marseille;280;Egor Gerasimov;R;BLR;Dennis Novak;R;AUT;72;764;95;609
+Marseille;279;Pierre Hugues Herbert;R;FRA;Mikhail Kukushkin;R;KAZ;79;715;69;791
+Marseille;278;Felix Auger Aliassime;R;CAN;Stefano Travaglia;U;ITA;18;1921;85;684
+Marseille;277;Benoit Paire;R;FRA;Gregoire Barrere;R;FRA;20;1738;89;665
+Marseille;276;Alexander Bublik;R;KAZ;Marton Fucsovics;R;HUN;55;930;73;762
+Marseille;275;Marin Cilic;R;CRO;Ilya Ivashka;R;BLR;39;1205;137;394
+Marseille;273;Hubert Hurkacz;R;POL;Antoine Hoang;R;FRA;29;1433;129;412
+Marseille;272;Vasek Pospisil;R;CAN;Emil Ruusuvuori;R;FIN;98;597;101;576
+Marseille;271;Mikael Ymer;R;SWE;Richard Gasquet;R;FRA;75;749;57;915
+Rio De Janeiro;300;Christian Garin;R;CHI;Gianluca Mager;R;ITA;25;1550;128;413
+Rio De Janeiro;299;Gianluca Mager;R;ITA;Attila Balazs;R;HUN;128;413;106;525
+Rio De Janeiro;298;Christian Garin;R;CHI;Borna Coric;R;CRO;25;1550;32;1320
+Rio De Janeiro;297;Gianluca Mager;R;ITA;Dominic Thiem;R;AUT;128;413;4;7045
+Rio De Janeiro;296;Attila Balazs;R;HUN;Pedro Martinez;R;ESP;106;525;133;404
+Rio De Janeiro;295;Christian Garin;R;CHI;Federico Coria;R;ARG;25;1550;116;466
+Rio De Janeiro;294;Borna Coric;R;CRO;Lorenzo Sonego;R;ITA;32;1320;52;960
+Rio De Janeiro;293;Dominic Thiem;R;AUT;Jaume Munar;R;ESP;4;7045;99;593
+Rio De Janeiro;292;Gianluca Mager;R;ITA;Joao Domingues;R;POR;128;413;169;292
+Rio De Janeiro;291;Attila Balazs;R;HUN;Thiago Monteiro;L;BRA;106;525;88;669
+Rio De Janeiro;290;Pedro Martinez;R;ESP;Pablo Andujar;R;ESP;133;404;59;887
+Rio De Janeiro;289;Federico Coria;R;ARG;Carlos Alcaraz Garfia;U;ESP;116;466;406;82
+Rio De Janeiro;288;Christian Garin;R;CHI;Federico Delbonis;L;ARG;25;1550;86;676
+Rio De Janeiro;287;Borna Coric;R;CRO;Thiago Seyboth Wild;R;BRA;32;1320;206;235
+Rio De Janeiro;286;Lorenzo Sonego;R;ITA;Dusan Lajovic;R;SRB;52;960;23;1641
+Rio De Janeiro;285;Dominic Thiem;R;AUT;Felipe Meligeni Rodrigues Alves;R;BRA;4;7045;341;111
+Rio De Janeiro;284;Jaume Munar;R;ESP;Salvatore Caruso;R;ITA;99;593;97;600
+Rio De Janeiro;283;Joao Domingues;R;POR;Federico Gaio;R;ITA;169;292;127;422
+Rio De Janeiro;282;Gianluca Mager;R;ITA;Casper Ruud;R;NOR;128;413;34;1313
+Rio De Janeiro;281;Thiago Monteiro;L;BRA;Guido Pella;L;ARG;88;669;26;1515
+Rio De Janeiro;280;Attila Balazs;R;HUN;Pablo Cuevas;R;URU;106;525;46;1017
+Rio De Janeiro;279;Pedro Martinez;R;ESP;Hugo Dellien;R;BOL;133;404;78;738
+Rio De Janeiro;278;Pablo Andujar;R;ESP;Fernando Verdasco;L;ESP;59;887;49;1000
+Rio De Janeiro;277;Carlos Alcaraz Garfia;U;ESP;Albert Ramos;L;ESP;406;82;41;1130
+Rio De Janeiro;276;Federico Coria;R;ARG;Corentin Moutet;L;FRA;116;466;77;742
+Rio De Janeiro;275;Federico Delbonis;L;ARG;Roberto Carballes Baena;R;ESP;86;676;93;639
+Rio De Janeiro;274;Christian Garin;R;CHI;Andrej Martin;R;SVK;25;1550;94;629
+Rio De Janeiro;273;Borna Coric;R;CRO;Juan Ignacio Londero;R;ARG;32;1320;61;881
+Rio De Janeiro;272;Thiago Seyboth Wild;R;BRA;Alejandro Davidovich Fokina;R;ESP;206;235;90;655
+Rio De Janeiro;271;Lorenzo Sonego;R;ITA;Leonardo Mayer;R;ARG;52;960;109;509
+Rio De Janeiro;270;Dusan Lajovic;R;SRB;Marco Cecchinato;R;ITA;23;1641;111;508
+Acapulco;300;Rafael Nadal;L;ESP;Taylor Fritz;R;USA;2;9395;35;1255
+Acapulco;299;Rafael Nadal;L;ESP;Grigor Dimitrov;R;BUL;2;9395;22;1682
+Acapulco;298;Taylor Fritz;R;USA;John Isner;R;USA;35;1255;20;1760
+Acapulco;297;Rafael Nadal;L;ESP;Soon Woo Kwon;R;KOR;2;9395;76;732
+Acapulco;296;Grigor Dimitrov;R;BUL;Stan Wawrinka;R;SUI;22;1682;16;2060
+Acapulco;295;Taylor Fritz;R;USA;Kyle Edmund;R;GBR;35;1255;44;1085
+Acapulco;294;John Isner;R;USA;Tommy Paul;R;USA;20;1760;66;792
+Acapulco;293;Rafael Nadal;L;ESP;Miomir Kecmanovic;R;SRB;2;9395;50;1003
+Acapulco;292;Soon Woo Kwon;R;KOR;Dusan Lajovic;R;SRB;76;732;24;1670
+Acapulco;291;Stan Wawrinka;R;SUI;Pedro Martinez;R;ESP;16;2060;113;504
+Acapulco;290;Grigor Dimitrov;R;BUL;Adrian Mannarino;L;FRA;22;1682;42;1086
+Acapulco;289;Taylor Fritz;R;USA;Ugo Humbert;L;FRA;35;1255;43;1086
+Acapulco;288;Kyle Edmund;R;GBR;Felix Auger Aliassime;R;CAN;44;1085;19;1771
+Acapulco;287;John Isner;R;USA;Marcos Giron;R;USA;20;1760;115;498
+Acapulco;286;Tommy Paul;R;USA;Alexander Zverev;R;GER;66;792;7;3885
+Acapulco;285;Rafael Nadal;L;ESP;Pablo Andujar;R;ESP;2;9395;54;932
+Acapulco;284;Miomir Kecmanovic;R;SRB;Alex De Minaur;R;AUS;50;1003;25;1575
+Acapulco;283;Soon Woo Kwon;R;KOR;Taro Daniel;R;JPN;76;732;110;511
+Acapulco;282;Dusan Lajovic;R;SRB;Steve Johnson;R;USA;24;1670;73;745
+Acapulco;281;Stan Wawrinka;R;SUI;Frances Tiafoe;R;USA;16;2060;82;700
+Acapulco;280;Pedro Martinez;R;ESP;Radu Albot;R;MDA;113;504;69;772
+Acapulco;279;Adrian Mannarino;L;FRA;Cameron Norrie;L;GBR;42;1086;58;872
+Acapulco;278;Grigor Dimitrov;R;BUL;Damir Dzumhur;R;BIH;22;1682;109;520
+Acapulco;277;Ugo Humbert;L;FRA;Nick Kyrgios;R;AUS;43;1086;23;1670
+Acapulco;276;Taylor Fritz;R;USA;John Millman;R;AUS;35;1255;40;1141
+Acapulco;275;Kyle Edmund;R;GBR;Feliciano Lopez;L;ESP;44;1085;52;953
+Acapulco;274;Felix Auger Aliassime;R;CAN;Alex Bolt;L;AUS;19;1771;137;395
+Acapulco;273;John Isner;R;USA;Mischa Zverev;L;GER;20;1760;257;182
+Acapulco;272;Marcos Giron;R;USA;Gerardo Lopez Villasenor;U;MEX;115;498;518;54
+Acapulco;271;Tommy Paul;R;USA;Mackenzie McDonald;R;USA;66;792;196;257
+Acapulco;270;Alexander Zverev;R;GER;Jason Jung;R;TPE;7;3885;119;457
+Dubai;300;Novak Djokovic;R;SRB;Stefanos Tsitsipas;R;GRE;1;9720;6;4745
+Dubai;299;Novak Djokovic;R;SRB;Gael Monfils;R;FRA;1;9720;9;2860
+Dubai;298;Stefanos Tsitsipas;R;GRE;Daniel Evans;R;GBR;6;4745;37;1224
+Dubai;297;Novak Djokovic;R;SRB;Karen Khachanov;R;RUS;1;9720;17;2040
+Dubai;296;Gael Monfils;R;FRA;Richard Gasquet;R;FRA;9;2860;56;915
+Dubai;295;Daniel Evans;R;GBR;Andrey Rublev;R;RUS;37;1224;14;2219
+Dubai;294;Stefanos Tsitsipas;R;GRE;Jan Lennard Struff;R;GER;6;4745;34;1270
+Dubai;293;Novak Djokovic;R;SRB;Philipp Kohlschreiber;R;GER;1;9720;80;704
+Dubai;292;Karen Khachanov;R;RUS;Dennis Novak;R;AUT;17;2040;96;621
+Dubai;291;Gael Monfils;R;FRA;Yasutaka Uchiyama;R;JPN;9;2860;99;604
+Dubai;290;Richard Gasquet;R;FRA;Benoit Paire;R;FRA;56;915;21;1738
+Dubai;289;Andrey Rublev;R;RUS;Filip Krajinovic;R;SRB;14;2219;33;1318
+Dubai;288;Daniel Evans;R;GBR;Pierre Hugues Herbert;R;FRA;37;1224;78;715
+Dubai;287;Jan Lennard Struff;R;GER;Nikoloz Basilashvili;R;GEO;34;1270;29;1440
+Dubai;286;Stefanos Tsitsipas;R;GRE;Alexander Bublik;R;KAZ;6;4745;47;1010
+Dubai;285;Novak Djokovic;R;SRB;Malek Jaziri;R;TUN;1;9720;260;181
+Dubai;284;Philipp Kohlschreiber;R;GER;Mohamed Safwat;R;EGY;80;704;132;407
+Dubai;283;Dennis Novak;R;AUT;Prajnesh Gunneswaran;L;IND;96;621;134;405
+Dubai;282;Karen Khachanov;R;RUS;Mikhail Kukushkin;R;KAZ;17;2040;89;661
+Dubai;281;Gael Monfils;R;FRA;Marton Fucsovics;R;HUN;9;2860;70;762
+Dubai;280;Yasutaka Uchiyama;R;JPN;Yen Hsun Lu;R;TPE;99;604;962;10
+Dubai;279;Richard Gasquet;R;FRA;Lloyd Harris;R;RSA;56;915;93;641
+Dubai;278;Benoit Paire;R;FRA;Marin Cilic;R;CRO;21;1738;36;1225
+Dubai;277;Andrey Rublev;R;RUS;Lorenzo Musetti;R;ITA;14;2219;311;129
+Dubai;276;Filip Krajinovic;R;SRB;Joao Sousa;R;POR;33;1318;68;776
+Dubai;275;Pierre Hugues Herbert;R;FRA;Yoshihito Nishioka;L;JPN;78;715;48;1007
+Dubai;274;Daniel Evans;R;GBR;Fabio Fognini;R;ITA;37;1224;11;2400
+Dubai;273;Jan Lennard Struff;R;GER;Roberto Bautista Agut;R;ESP;34;1270;12;2360
+Dubai;272;Nikoloz Basilashvili;R;GEO;Ricardas Berankis;R;LTU;29;1440;62;841
+Dubai;271;Alexander Bublik;R;KAZ;Hubert Hurkacz;R;POL;47;1010;30;1433
+Dubai;270;Stefanos Tsitsipas;R;GRE;Pablo Carreno Busta;R;ESP;6;4745;27;1500
+Santiago;300;Thiago Seyboth Wild;R;BRA;Casper Ruud;R;NOR;182;277;38;1219
+Santiago;299;Thiago Seyboth Wild;R;BRA;Renzo Olivo;R;ARG;182;277;297;139
+Santiago;298;Casper Ruud;R;NOR;Albert Ramos;L;ESP;38;1219;45;1085
+Santiago;297;Thiago Seyboth Wild;R;BRA;Christian Garin;R;CHI;182;277;18;2005
+Santiago;296;Renzo Olivo;R;ARG;Hugo Dellien;R;BOL;297;139;94;638
+Santiago;295;Albert Ramos;L;ESP;Thiago Monteiro;L;BRA;45;1085;88;669
+Santiago;294;Casper Ruud;R;NOR;Federico Delbonis;L;ARG;38;1219;85;676
+Santiago;293;Christian Garin;R;CHI;Alejandro Davidovich Fokina;R;ESP;18;2005;98;611
+Santiago;292;Thiago Seyboth Wild;R;BRA;Juan Ignacio Londero;R;ARG;182;277;63;832
+Santiago;291;Renzo Olivo;R;ARG;Pablo Cuevas;R;URU;297;139;60;857
+Santiago;290;Hugo Dellien;R;BOL;Marcelo Tomas Barrios Vera;U;CHI;94;638;300;134
+Santiago;289;Thiago Monteiro;L;BRA;Roberto Carballes Baena;R;ESP;88;669;97;614
+Santiago;288;Albert Ramos;L;ESP;Juan Pablo Varillas;R;PER;45;1085;146;380
+Santiago;287;Federico Delbonis;L;ARG;Salvatore Caruso;R;ITA;85;676;100;600
+Santiago;286;Casper Ruud;R;NOR;Alejandro Tabilo;L;CHI;38;1219;166;290
+Santiago;284;Alejandro Davidovich Fokina;R;ESP;Andrej Martin;R;SVK;98;611;95;629
+Santiago;283;Thiago Seyboth Wild;R;BRA;Facundo Bagnis;L;ARG;182;277;131;409
+Santiago;282;Juan Ignacio Londero;R;ARG;Federico Coria;R;ARG;63;832;104;569
+Santiago;280;Renzo Olivo;R;ARG;Pedro Sousa;R;POR;297;139;108;522
+Santiago;279;Marcelo Tomas Barrios Vera;U;CHI;Carlos Taberner;R;ESP;300;134;175;281
+Santiago;278;Hugo Dellien;R;BOL;Marco Cecchinato;R;ITA;94;638;112;508
+Santiago;277;Thiago Monteiro;L;BRA;Leonardo Mayer;R;ARG;88;669;111;509
+Santiago;276;Roberto Carballes Baena;R;ESP;Jaume Munar;R;ESP;97;614;105;548
+Santiago;275;Juan Pablo Varillas;R;PER;Filip Horansky;R;SVK;146;380;164;296
+Santiago;273;Federico Delbonis;L;ARG;Martin Klizan;L;SVK;85;676;158;315
+Santiago;272;Salvatore Caruso;R;ITA;Jozef Kovalik;R;SVK;100;600;120;447
+Santiago;271;Alejandro Tabilo;L;CHI;Paolo Lorenzi;R;ITA;166;290;121;446
+Davis Cup QLS R1: ARG vs COL;1;Daniel Elahi Galan;U;COL;Leonardo Mayer;R;ARG;148;379;118;464
+Davis Cup QLS R1: ARG vs COL;2;Juan Ignacio Londero;R;ARG;Santiago Giraldo;R;COL;62;832;292;140
+Davis Cup QLS R1: ARG vs COL;4;Daniel Elahi Galan;U;COL;Juan Ignacio Londero;R;ARG;148;379;62;832
+Davis Cup QLS R1: AUS vs BRA;1;Jordan Thompson;R;AUS;Thiago Monteiro;L;BRA;63;823;82;699
+Davis Cup QLS R1: AUS vs BRA;2;John Millman;R;AUS;Thiago Seyboth Wild;R;BRA;43;1071;113;507
+Davis Cup QLS R1: AUS vs BRA;4;John Millman;R;AUS;Thiago Monteiro;L;BRA;43;1071;82;699
+Davis Cup QLS R1: AUT vs URU;1;Dennis Novak;R;AUT;Martin Cuevas;R;URU;85;686;487;61
+Davis Cup QLS R1: AUT vs URU;2;Pablo Cuevas;R;URU;Jurij Rodionov;L;AUT;60;857;168;307
+Davis Cup QLS R1: AUT vs URU;4;Dennis Novak;R;AUT;Pablo Cuevas;R;URU;85;686;60;857
+Davis Cup QLS R1: BEL vs HUN;1;Ruben Bemelmans;L;BEL;Attila Balazs;R;HUN;222;215;76;715
+Davis Cup QLS R1: BEL vs HUN;2;Marton Fucsovics;R;HUN;Kimmer Coppejans;R;BEL;84;692;154;343
+Davis Cup QLS R1: BEL vs HUN;4;Attila Balazs;R;HUN;Kimmer Coppejans;R;BEL;76;715;154;343
+Davis Cup QLS R1: BEL vs HUN;5;Marton Fucsovics;R;HUN;Ruben Bemelmans;L;BEL;84;692;222;215
+Davis Cup QLS R1: CRO vs IND;1;Borna Gojo;U;CRO;Prajnesh Gunneswaran;L;IND;277;162;132;405
+Davis Cup QLS R1: CRO vs IND;2;Marin Cilic;R;CRO;Ramkumar Ramanathan;R;IND;37;1225;182;278
+Davis Cup QLS R1: CRO vs IND;4;Marin Cilic;R;CRO;Sumit Nagal;R;IND;37;1225;127;423
+Davis Cup QLS R1: CZE vs SVK;1;Jiri Vesely;L;CZE;Jozef Kovalik;R;SVK;64;785;121;447
+Davis Cup QLS R1: CZE vs SVK;2;Lukas Rosol;R;CZE;Andrej Martin;R;SVK;179;285;95;629
+Davis Cup QLS R1: CZE vs SVK;4;Jiri Vesely;L;CZE;Andrej Martin;R;SVK;64;785;95;629
+Davis Cup QLS R1: GER vs BLR;1;Jan Lennard Struff;R;GER;Ilya Ivashka;R;BLR;34;1315;138;396
+Davis Cup QLS R1: GER vs BLR;2;Egor Gerasimov;R;BLR;Philipp Kohlschreiber;R;GER;68;744;73;729
+Davis Cup QLS R1: GER vs BLR;4;Jan Lennard Struff;R;GER;Egor Gerasimov;R;BLR;34;1315;68;744
+Davis Cup QLS R1: GER vs BLR;5;Dominik Koepfer;L;GER;Daniil Ostapenkov;;BLR;92;643;;
+Davis Cup QLS R1: JPN vs ECU;1;Emilio Gomez;R;ECU;Go Soeda;R;JPN;151;365;117;480
+Davis Cup QLS R1: JPN vs ECU;2;Roberto Quiroz;L;ECU;Yasutaka Uchiyama;R;JPN;276;163;90;669
+Davis Cup QLS R1: KAZ vs NED;1;Robin Haase;R;NED;Mikhail Kukushkin;R;KAZ;169;305;91;661
+Davis Cup QLS R1: KAZ vs NED;2;Alexander Bublik;R;KAZ;Tallon Griekspoor;R;NED;51;965;196;256
+Davis Cup QLS R1: KAZ vs NED;4;Alexander Bublik;R;KAZ;Robin Haase;R;NED;51;965;169;305
+Davis Cup QLS R1: SWE vs CHI;1;Mikael Ymer;R;SWE;Marcelo Tomas Barrios Vera;U;CHI;67;759;282;154
+Davis Cup QLS R1: SWE vs CHI;2;Alejandro Tabilo;L;CHI;Elias Ymer;R;SWE;173;290;202;247
+Davis Cup QLS R1: SWE vs CHI;4;Mikael Ymer;R;SWE;Alejandro Tabilo;L;CHI;67;759;173;290
+Davis Cup QLS R1: USA vs UZB;1;Reilly Opelka;R;USA;Denis Istomin;R;UZB;38;1177;156;339
+Davis Cup QLS R1: USA vs UZB;2;Taylor Fritz;R;USA;Sanjar Fayziev;U;UZB;24;1510;498;59
+Davis Cup QLS R1: USA vs UZB;4;Tommy Paul;R;USA;Denis Istomin;R;UZB;57;894;156;339
+Davis Cup WG1 PO: BIH vs RSA;1;Damir Dzumhur;R;BIH;Ruan Roelofse;R;RSA;107;524;611;36
+Davis Cup WG1 PO: BIH vs RSA;2;Lloyd Harris;R;RSA;Mirza Basic;R;BIH;98;616;303;134
+Davis Cup WG1 PO: BIH vs RSA;4;Damir Dzumhur;R;BIH;Lloyd Harris;R;RSA;107;524;98;616
+Davis Cup WG1 PO: BOL vs DOM;1;Hugo Dellien;R;BOL;Jose Hernandez;U;DOM;94;638;289;142
+Davis Cup WG1 PO: BOL vs DOM;2;Roberto Cid;R;DOM;Federico Zeballos;U;BOL;215;229;543;50
+Davis Cup WG1 PO: BOL vs DOM;4;Hugo Dellien;R;BOL;Roberto Cid;R;DOM;94;638;215;229
+Davis Cup WG1 PO: LBN vs THA;1;Benjamin Hassan;U;GER;Jirat Navasirisomboon;R;THA;348;109;1541;2
+Davis Cup WG1 PO: LBN vs THA;2;Wishaya Trongcharoenchaikul;R;THA;Hasan Ibrahim;U;GER;623;35;1507;2
+Davis Cup WG1 PO: LBN vs THA;4;Benjamin Hassan;U;GER;Wishaya Trongcharoenchaikul;R;THA;348;109;623;35
+Davis Cup WG1 PO: LTU vs POR;1;Frederico Ferreira Silva;L;POR;Laurynas Grigelis;R;LTU;190;268;497;59
+Davis Cup WG1 PO: LTU vs POR;2;Joao Sousa;R;POR;Julius Tverijonas;R;LTU;65;776;791;19
+Davis Cup WG1 PO: LTU vs POR;4;Pedro Sousa;R;POR;Laurynas Grigelis;R;LTU;110;522;497;59
+Davis Cup WG1 PO: MEX vs FIN;1;Patrik Niklas Salminen;U;FIN;Manuel Sanchez;R;MEX;418;81;821;17
+Davis Cup WG1 PO: MEX vs FIN;2;Gerardo Lopez Villasenor;U;MEX;Otto Virtanen;U;FIN;522;54;719;24
+Davis Cup WG1 PO: MEX vs FIN;4;Gerardo Lopez Villasenor;U;MEX;Harri Heliovaara;R;FIN;522;54;605;37
+Davis Cup WG1 PO: MEX vs FIN;5;Otto Virtanen;U;FIN;Manuel Sanchez;R;MEX;719;24;821;17
+Davis Cup WG1 PO: NOR vs BAR;1;Viktor Durasovic;U;NOR;Darian King;R;BAR;337;115;263;176
+Davis Cup WG1 PO: NOR vs BAR;2;Casper Ruud;R;NOR;Haydn Lewis;L;BAR;36;1279;;
+Davis Cup WG1 PO: NOR vs BAR;4;Lukas Hellum Lilleengen;U;NOR;Kaipo Marshall;;BAR;1564;2;;
+Davis Cup WG1 PO: PAK vs SLO;1;Aisam Ul Haq Qureshi;R;PAK;Nik Razborsek;L;SLO;;;700;26
+Davis Cup WG1 PO: PAK vs SLO;2;Aqeel Khan;R;PAK;Blaz Kavcic;R;SLO;;;285;148
+Davis Cup WG1 PO: PER vs SUI;1;Juan Pablo Varillas;R;PER;Sandro Ehrat;R;SUI;135;403;382;93
+Davis Cup WG1 PO: PER vs SUI;2;Henri Laaksonen;R;SUI;Nicolas Alvarez;R;PER;137;400;330;119
+Davis Cup WG1 PO: PER vs SUI;4;Juan Pablo Varillas;R;PER;Henri Laaksonen;R;SUI;135;403;137;400
+Davis Cup WG1 PO: TUR vs ISR;1;Daniel Cukierman;U;ISR;Cem Ilkel;R;TUR;832;16;195;257
+Davis Cup WG1 PO: TUR vs ISR;2;Altug Celikbilek;U;TUR;Ben Patael;U;ISR;329;119;562;45
+Davis Cup WG1 PO: TUR vs ISR;4;Edan Leshem;U;ISR;Cem Ilkel;R;TUR;355;107;195;257
+Davis Cup WG1 PO: UKR vs TPE;1;Chun Hsin Tseng;R;TPE;Sergiy Stakhovsky;R;UKR;279;159;167;307
+Davis Cup WG1 PO: UKR vs TPE;2;Tung Lin Wu;R;TPE;Illya Marchenko;R;UKR;232;209;207;240
+Davis Cup WG1 PO: UKR vs TPE;4;Sergiy Stakhovsky;R;UKR;Tung Lin Wu;R;TPE;167;307;232;209
+Davis Cup WG1 PO: UKR vs TPE;5;Illya Marchenko;R;UKR;Chun Hsin Tseng;R;TPE;207;240;279;159
+Davis Cup WG1 PO: VEN vs NZL;1;Finn Tearney;R;NZL;Jordi Munoz Abreu;U;VEN;1018;9;1234;4
+Davis Cup WG1 PO: VEN vs NZL;2;Luis David Martinez;U;VEN;Ajeet Rai;R;NZL;;;915;13
+Davis Cup WG1 PO: VEN vs NZL;4;Jose Rubin Statham;R;NZL;Brandon Perez;U;VEN;;;1671;1
+Davis Cup WG2 PO: CRC vs BUL;1;Dimitar Kuzmanov;R;BUL;Julian Saborio;U;CRC;318;126;;
+Davis Cup WG2 PO: CRC vs BUL;2;Alexandar Lazarov;R;BUL;Jesse Flores;U;CAN;537;51;1146;6
+Davis Cup WG2 PO: CRC vs BUL;4;Dimitar Kuzmanov;R;BUL;Jesse Flores;U;CAN;318;126;1146;6
+Davis Cup WG2 PO: CRC vs BUL;5;Alexander Donski;U;CAN;Rodrigo Crespo Piedra;;CRC;566;44;;
+Davis Cup WG2 PO: DEN vs PUR;1;Mikael Torpegaard;R;DEN;Quinton Vega;R;USA;170;304;;
+Davis Cup WG2 PO: DEN vs PUR;2;Holger Rune;U;DEN;Ignacio Garcia;;PUR;861;15;;
+Davis Cup WG2 PO: DEN vs PUR;4;Frederik Nielsen;R;DEN;Ignacio Garcia;;PUR;;;;
+Davis Cup WG2 PO: DEN vs PUR;5;Holger Rune;U;DEN;Quinton Vega;R;USA;861;15;;
+Davis Cup WG2 PO: ESA vs JAM;1;Blaise Bicknell;U;USA;Alberto Emmanuel Alvarado Larin;U;ESA;1316;3;;
+Davis Cup WG2 PO: ESA vs JAM;2;Marcelo Arevalo;R;ESA;Rowland Phillips;U;JAM;410;82;1566;2
+Davis Cup WG2 PO: ESA vs JAM;4;Marcelo Arevalo;R;ESA;Blaise Bicknell;U;USA;410;82;1316;3
+Davis Cup WG2 PO: GEO vs EST;1;Nikoloz Basilashvili;R;GEO;Vladimir Ivanov;R;EST;27;1395;732;24
+Davis Cup WG2 PO: GEO vs EST;2;Kristjan Tamm;U;EST;Aleksandre Metreveli;R;GEO;729;24;564;44
+Davis Cup WG2 PO: GEO vs EST;4;Kristjan Tamm;U;EST;Zura Tkemaladze;U;GEO;729;24;;
+Davis Cup WG2 PO: GEO vs EST;5;Daniil Glinka;U;EST;Nikoloz Davlianidze;U;GEO;961;11;;
+Davis Cup WG2 PO: GUA vs TUN;1;Wilfredo Gonzalez;R;GUA;Aziz Dougaz;U;TUN;1089;7;356;107
+Davis Cup WG2 PO: GUA vs TUN;2;Malek Jaziri;R;TUN;Franz Luna Lavidalie;R;GUA;259;181;;
+Davis Cup WG2 PO: GUA vs TUN;4;Malek Jaziri;R;TUN;Wilfredo Gonzalez;R;GUA;259;181;1089;7
+Davis Cup WG2 PO: INA vs KEN;1;Christopher Rungkat;R;INA;Sheil Kotecha;R;KEN;;;1385;3
+Davis Cup WG2 PO: INA vs KEN;2;David Agung Susanto;U;INA;Ismael Changawa Ruwa Mzai;L;KEN;1346;3;;
+Davis Cup WG2 PO: INA vs KEN;4;Gunawan Trismuwantara;;INA;Kevin Cheruiyot;R;KEN;;;1752;1
+Davis Cup WG2 PO: LAT vs EGY;1;Mohamed Safwat;R;EGY;Karlis Ozolins;U;LVA;131;407;;
+Davis Cup WG2 PO: LAT vs EGY;2;Ernests Gulbis;R;LAT;Karim Mohamed Maamoun;R;EGY;161;321;390;90
+Davis Cup WG2 PO: LAT vs EGY;4;Ernests Gulbis;R;LAT;Mohamed Safwat;R;EGY;161;321;131;407
+Davis Cup WG2 PO: LAT vs EGY;5;Robert Strombachs;U;GER;Amr Elsayed Abdou Ahmed Mohamed;;EGY;668;29;;
+Davis Cup WG2 PO: MAR vs VIE;1;Lamine Ouahab;R;ALG;Nam Hoang Ly;R;VIE;664;29;714;25
+Davis Cup WG2 PO: MAR vs VIE;2;Adam Moundir;U;SUI;Phuong Van Nguyen;U;VIE;458;69;;
+Davis Cup WG2 PO: MAR vs VIE;4;Aissa Benchakroun;U;MAR;Linh Giang Trinh;;VIE;1671;1;;
+Davis Cup WG2 PO: PAR vs SRI;1;Adolfo Daniel Vallejo;U;PAR;Sharmal Dissanayake;R;SRI;;;;
+Davis Cup WG2 PO: PAR vs SRI;2;Martin Antonio Vergara Del Puerto;U;PAR;Yasitha De Silva;;SRI;;;;
+Davis Cup WG2 PO: PAR vs SRI;4;Adolfo Daniel Vallejo;U;PAR;Thehan Sanjaya Wijemanne;;SRI;;;;
+Davis Cup WG2 PO: PHI vs GRE;1;Stefanos Tsitsipas;R;GRE;Alberto Lim;R;PHI;6;4745;;
+Davis Cup WG2 PO: PHI vs GRE;2;Petros Tsitsipas;U;GRE;Jeson Patrombon;R;PHI;1169;6;1421;2
+Davis Cup WG2 PO: PHI vs GRE;4;Stefanos Tsitsipas;R;GRE;Jeson Patrombon;R;PHI;6;4745;1421;2
+Davis Cup WG2 PO: PHI vs GRE;5;Petros Tsitsipas;U;GRE;Eric Jr. Olivarez;;PHI;1169;6;;
+Davis Cup WG2 PO: POL vs HKG;1;Kacper Zuk;R;POL;Ching Lam;R;HKG;302;136;;
+Davis Cup WG2 PO: POL vs HKG;2;Jerzy Janowicz;R;POL;Pak Long Yeung;U;HKG;461;68;960;11
+Davis Cup WG2 PO: POL vs HKG;4;Maks Kasnikowski;;POL;Wai Yu Kai;U;HKG;;;;
+Davis Cup WG2 PO: SYR vs ZIM;1;Hazem Naw;R;UNK;Mehluli Don Ayanda Sibanda;R;ZIM;;;813;18
+Davis Cup WG2 PO: SYR vs ZIM;2;Benjamin Lock;R;ZIM;Amer Naow;R;SYR;430;79;;
+Davis Cup WG2 PO: SYR vs ZIM;4;Benjamin Lock;R;ZIM;Hazem Naw;R;UNK;430;79;;
