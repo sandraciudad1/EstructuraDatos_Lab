@@ -1,1 +1,1 @@
-# EstructuraDatos_Lab
+# Repositorio para el laboratorio de Estructura de Datos
